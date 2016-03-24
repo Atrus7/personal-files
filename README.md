@@ -1,2 +1,2 @@
 # personal-files
-Resume's, notes, anything I don't want everywhere.
+Resume's, notes, anything I'm fine with being everywhere
